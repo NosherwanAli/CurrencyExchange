@@ -1,2 +1,2 @@
-# CurrencyExchange
-A simple and responsive currency converter that lets users convert between multiple international currencies using real-time exchange rates.
+# JavaScript Practice
+This repository contains my personal JavaScript practice files, covering core concepts, coding exercises, and mini-projects as I improve my JavaScript skills.
